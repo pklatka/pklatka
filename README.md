@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 - 🙋‍♂️ I'm Patryk Klatka
 - 🤓 Computer Science student
