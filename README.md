@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ I'm Patryk Klatka
 - 🤓 Computer Science student
-- 🌱 Currently learning:
+- 🌱 Currently trying to find time to learn:
   - 🤧 Spring for backend development
   - 🪨 Scala for Big Data 
   - 🐍 Python libraries for Machine Learning 
