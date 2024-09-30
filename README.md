@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Patryk (｡◕‿‿◕｡)
 
 <p align="left">
-🤓 Computer Science student at <a href="https://www.informatyka.agh.edu.pl/en/" target="_blank" rel="noopener noreferrer">AGH University of Kraków</a>
+🤓 Computer Science student at <a href="https://www.agh.edu.pl/en" target="_blank" rel="noopener noreferrer">AGH University of Kraków</a>
 <br>
 🧑‍💻 Software Enginner at <a href="https://swmansion.com/" target="_blank" rel="noopener noreferrer">Software Mansion</a>
 <br>
