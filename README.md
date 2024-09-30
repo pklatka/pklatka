@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">I'm Patryk (｡◕‿‿◕｡)</p>
+<h1 align="left">Hey 👋 I'm Patryk (｡◕‿‿◕｡)</h1>
 
 ###
 
