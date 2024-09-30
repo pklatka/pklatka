@@ -1,8 +1,33 @@
-### Hi there 👋 
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🙋‍♂️ I'm Patryk Klatka
-- 🤓 Computer Science student
-- 🧑‍💻 Software enginner at @software-mansion
-- 👯 I'm open to collaborate on something cool
-- 👉 Do not hesitate to visit [my website](https://www.klatka.it)
-- 📫 How to reach me: contact@klatka.it
+###
+
+<p align="left">I'm Patryk (｡◕‿‿◕｡)</p>
+
+###
+
+<p align="left">🤓 Computer Science student at AGH University of Kraków<br>🧑‍💻 Software Enginner at @software-mansion<br>🤗 Currently working on integrating React Native with other platforms<br>👯 I'm open to collaborate on something cool<br>🎲 Fun fact: you can visit <a href="https://www.klatka.it" target="_blank" rel="noopener noreferrer">my website</a><br>📫 How to reach me: patryk.klatka@gmail.com</p>
+
+###
+
+<h2 align="left">Technologies I work with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
