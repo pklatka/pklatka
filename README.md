@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Patryk (｡◕‿‿◕｡)
 
-<p align="left">🤓 Computer Science student at AGH University of Kraków<br>🧑‍💻 Software Enginner at @software-mansion<br>🤗 Currently working on integrating React Native with other platforms<br>👯 I'm open to collaborate on something cool<br>🎲 Fun fact: you can visit <a href="https://www.klatka.it" target="_blank" rel="noopener noreferrer">my website</a><br>📫 How to reach me: patryk.klatka@gmail.com</p>
+<p align="left">🤓 Computer Science student at AGH University of Kraków<br>🧑‍💻 Software Enginner at Software Mansion<br>🤗 Currently working on integrating React Native with other platforms<br>👯 I'm open to collaborate on something cool<br>🎲 Fun fact: you can visit <a href="https://www.klatka.it" target="_blank" rel="noopener noreferrer">my website</a><br>📫 How to reach me: patryk.klatka@gmail.com</p>
 
 ## What technologies do I use 🤔
 
