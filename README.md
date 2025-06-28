@@ -3,9 +3,7 @@
 <p align="left">
 🤓 Computer Science student at <a href="https://www.agh.edu.pl/en" target="_blank" rel="noopener noreferrer">AGH University of Kraków</a>
 <br>
-🧑‍💻 Software Enginner at <a href="https://swmansion.com/" target="_blank" rel="noopener noreferrer">Software Mansion</a>
-<br>
-🤗 Currently working on integrating <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a> with other platforms
+🧑‍💻 Software Engineering Intern at <a href="https://google.com/" target="_blank" rel="noopener noreferrer">Google</a>
 <br>
 👯 I'm open to collaborate on <a href="https://www.youtube.com/watch?v=mBf6K64wfG0&t=9" target="_blank" rel="noopener noreferrer">something cool</a>
 <br>
