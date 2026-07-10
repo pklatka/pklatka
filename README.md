@@ -7,6 +7,6 @@
 <br>
 🎲 Fun fact: you can visit <a href="https://www.klatka.it" target="_blank" rel="noopener noreferrer">my website</a>
 <br>
-📫 How to reach me: <a href="mailto:patryk.klatka@gmail.com">patryk.klatka@gmail.com</a>
+📫 How to reach me: <a href="mailto:contact@klatka.it">patryk.klatka@gmail.com</a>
 </p>                                                      
 
