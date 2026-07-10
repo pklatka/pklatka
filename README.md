@@ -1,7 +1,7 @@
 ## Hey, I'm Patryk 👋
 
 <p align="left">
-🤓 Computer Science student at <a href="https://www.agh.edu.pl/en" target="_blank" rel="noopener noreferrer">AGH University of Kraków</a>
+🤓 Software Engineer at <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a>
 <br>
 👯 I'm open to collaborate on <a href="https://www.youtube.com/watch?v=mBf6K64wfG0&t=9" target="_blank" rel="noopener noreferrer">something cool</a>
 <br>
